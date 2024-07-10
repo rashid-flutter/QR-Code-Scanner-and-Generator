@@ -1,3 +1,3 @@
-# or_code
+# qr_code
 
 A new Flutter project.
